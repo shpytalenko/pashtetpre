@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  a_time: MyString
+  b_time: MyString
+  total_time: MyString
+  data: 
+
+two:
+  a_time: MyString
+  b_time: MyString
+  total_time: MyString
+  data: 
